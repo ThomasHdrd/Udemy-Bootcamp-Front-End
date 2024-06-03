@@ -1,0 +1,30 @@
+.calc
+{
+    width: 320px;
+    margin: 100px auto;
+}
+
+#answer {
+    background-color: white;
+    padding: 10px;
+    font-size: 35px;
+    width: 295px;
+    height: 45px;
+    text-align: right;
+    border: 3px solid black;
+}
+
+.button {
+    background: rgb(43, 42, 42);
+    height: 80px;
+    width: 80px;
+    color: white;
+    border: 1px solid black;
+    font-size: 30px;
+    float: left;
+
+}
+
+.button1 {
+    width: 160px;
+}
